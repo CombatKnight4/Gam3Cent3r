@@ -1,0 +1,16 @@
+@font-face {
+    font-family: ReactiveAnchor-L3l0n;
+    src: url(fonts/ReactiveAnchor-L3L0n.ttf);
+  }
+  
+  *{
+    font-family: 'ReactiveAnchor-L3L0n', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    outline: none; border:none;
+    text-transform: capitalize;
+    transition: all .2s linear;
+  }
+  h3 {
+    font-family: 'ReactiveAnchor-L3L0n', sans-serif;
+  }
